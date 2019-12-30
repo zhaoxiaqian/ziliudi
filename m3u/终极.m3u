@@ -128,7 +128,7 @@ http://cloud-play.hhalloy.com/live/a08a123b4af3aebb4e19b82f64952c9e.flv
 #EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="新闻",中视新闻
 http://cloud-play.hhalloy.com/live/cf4d66edc142b2f0cc8c71bca56b2268.flv
 #EXTINF:-1 tvg-id="6095" tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="文娱",纬来日本台
-http://cloud-play.hhalloy.com/live/8bb9e07d9ed0c8bccd750b0f15206b73.flv
+rtmp://59.124.75.137:1935/sat/tv771
 #EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="综合",中视
 http://cloud-play.hhalloy.com/live/318e4839a23f9ff15e327de9bcb31687.flv
 #EXTINF:-1 tvg-id="7172" tvg-name="中视经典" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视经典.png" group-title="综合",中视经典
